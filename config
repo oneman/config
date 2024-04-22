@@ -1,3 +1,11 @@
 ALTER SYSTEM
 DROP FLIP TABLES
 INITCHAIN22:26
+[user@radcompany.us ~]$ cat config
+ALTER SYSTEM
+DROP FLIP TABLES
+INITCHAIN22:26
+[~/download]% sha256sum config
+a05feec6a0beb233365f25e293f1fb74537a7d0ea3f3c6ed17c8bbc07acb4d26  config
+[~/download]%
+git init
