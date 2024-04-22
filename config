@@ -5,3 +5,4 @@ IO=UCHAINRING
 REBASECHAIN=26
 alias send="cd ~ && git add config && git commit -m "reconfig" && git push"
 3b9dbcb7085de5d664bb344645d39423897475e803f8a66790d49ae298f90b92  config
+NT=4
